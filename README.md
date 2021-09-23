@@ -1,3 +1,5 @@
+[![crates.io](https://img.shields.io/crates/v/null_fn.svg)](https://crates.io/crates/null_fn)
+
 # ✨ `null_fn`
 
 A proc attribute macro that allows for creating null function pointers in `static`s.
